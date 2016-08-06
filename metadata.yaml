@@ -1,0 +1,30 @@
+_repo: The-first-New-Testament-printed-in-English_10553
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tyndale, William
+    aliases:
+    - Tindall, William
+    - Tindale, William
+    - Tyndal, William
+    - Tyndall, William
+    birthdate: 1492
+    deathdate: 1536
+    gutenberg_agent_id: '5675'
+    url: http://www.gutenberg.org/2009/agents/5675
+    wikipedia: http://en.wikipedia.org/wiki/William_Tyndale
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10553'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Bible. New Testament'
+- !lcc 'BS'
+- GITenberg
+title: The first New Testament printed in English
+url: http://www.gutenberg.org/ebooks/10553
